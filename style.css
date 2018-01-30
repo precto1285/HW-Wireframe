@@ -8,6 +8,8 @@ body {
     margin:auto;
     border:solid;
     border-width:5px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
 }
 
 #Header {
@@ -16,6 +18,8 @@ body {
     color:#777;
     text-align:center;
     width: 960px;
+    height:70px;
+    
 }
 
 #Nav {
@@ -23,7 +27,10 @@ body {
     color:#777;
     text-align:center;
     width: 960px;
-    font-family:Arial, Helvetica, sans-serif;
+    height: 70px;
+    margin-top:5px;
+    margin-bottom:5px;
+    
 }
 
 footer {
@@ -31,8 +38,8 @@ footer {
     color:#777;
     text-align:center;
     width: 960px;
-    margin-top:5px;
-    font-family:Arial, Helvetica, sans-serif;
+    height:70px;
+    margin-top:10px;
     clear:both;
 }
 
@@ -41,10 +48,10 @@ footer {
     color:#777;
     text-align:center;
     width: 495px;
+    height:180px;
     margin-top:5px;
     margin-right:5px;
-    margin-bottom:5px;
-    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom:10px;
     float:left;
     }
 
@@ -53,8 +60,12 @@ footer {
     color:#777;
     text-align:center;
     width: 455px;
+    height:180px;
+    margin-top:5px;
+    margin-right:19px;
+    margin-bottom:10px;
     margin-left:5px;
-    font-family: Arial, Helvetica, sans-serif;
+
     float:right;
 }
 
@@ -62,7 +73,6 @@ footer {
     background-color: #777;
     color:#ebebeb;
     text-align:center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .clear {
@@ -73,12 +83,10 @@ footer {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #Paragraph {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    font-family: Arial, Helvetica, sans-serif;
 }
