@@ -6,7 +6,7 @@ body {
     width: 980px;
     padding:5px;
     margin:auto;
-    border:solid;
+    /* border:solid; */
     border-width:5px;
     font-family:Arial, Helvetica, sans-serif;
     font-size:18px;
@@ -19,6 +19,7 @@ body {
     text-align:center;
     width: 960px;
     height:70px;
+    padding-top:40px;
     
 }
 
@@ -30,6 +31,7 @@ body {
     height: 70px;
     margin-top:5px;
     margin-bottom:5px;
+    padding-top:40px;
     
 }
 
@@ -40,6 +42,7 @@ footer {
     width: 960px;
     height:70px;
     margin-top:10px;
+    padding-top:40px;
     clear:both;
 }
 
@@ -48,11 +51,12 @@ footer {
     color:#777;
     text-align:center;
     width: 495px;
-    height:180px;
+    height:200px;
     margin-top:5px;
     margin-right:5px;
     margin-bottom:10px;
     float:left;
+    padding-top: 25px;
     }
 
 #Aside {
@@ -60,11 +64,12 @@ footer {
     color:#777;
     text-align:center;
     width: 455px;
-    height:180px;
+    height:200px;
     margin-top:5px;
     margin-right:19px;
     margin-bottom:10px;
     margin-left:5px;
+    padding-top: 25px;
 
     float:right;
 }
@@ -73,6 +78,10 @@ footer {
     background-color: #777;
     color:#ebebeb;
     text-align:center;
+    width:485px;
+    margin: 25px 5px 10px 5px;
+    padding-top:15px;
+    padding-bottom:10px;
 }
 
 .clear {
@@ -83,10 +92,18 @@ footer {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
+    height:40px;
+    margin: 20px 10px 5px 10px;
+    padding:auto;
 }
 
 #Paragraph {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
+    height:40px;
+    margin-top:5px;
+    margin-right:10px;
+    margin-left:10px;
+    padding:
 }
