@@ -1,23 +1,29 @@
 body {
+    align-content: center;
     background-color: #777;
     color:#ebebeb;
     text-align:center;
-    width: 960px;
-    
+    width: 970px;
+    padding:5px;
+    margin-left:200px;
+    margin-right:200px;
+    border:solid;
+    border-width:5px;
 }
 
 #Header {
+    align-content: center;
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 495px;
+    width: 960px;
 }
 
 #Nav {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 495px;
+    width: 960px;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -25,7 +31,7 @@ footer {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 495px;
+    width: 960px;
     font-family:Arial, Helvetica, sans-serif;
     clear:both;
 }
@@ -34,18 +40,20 @@ footer {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 495px;
+    width: 490px;
     font-family: Arial, Helvetica, sans-serif;
     float:left;
+    margin-right:5px;
 }
 
 #Aside {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 495px;
+    width: 490px;
     font-family: Arial, Helvetica, sans-serif;
     float:right;
+    margin-right:5px;
 }
 
 #Article {
@@ -61,6 +69,7 @@ footer {
 
 #Headers {
     background-color:#ebebeb;
+    color:#777;
     text-align:center;
     font-family: Arial, Helvetica, sans-serif;
 }
