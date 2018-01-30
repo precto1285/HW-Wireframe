@@ -3,10 +3,9 @@ body {
     background-color: #777;
     color:#ebebeb;
     text-align:center;
-    width: 970px;
+    width: 980px;
     padding:5px;
-    margin-left:200px;
-    margin-right:200px;
+    margin:auto;
     border:solid;
     border-width:5px;
 }
@@ -32,6 +31,7 @@ footer {
     color:#777;
     text-align:center;
     width: 960px;
+    margin-top:5px;
     font-family:Arial, Helvetica, sans-serif;
     clear:both;
 }
@@ -40,20 +40,22 @@ footer {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 490px;
+    width: 495px;
+    margin-top:5px;
+    margin-right:5px;
+    margin-bottom:5px;
     font-family: Arial, Helvetica, sans-serif;
     float:left;
-    margin-right:5px;
-}
+    }
 
 #Aside {
     background-color:#ebebeb;
     color:#777;
     text-align:center;
-    width: 490px;
+    width: 455px;
+    margin-left:5px;
     font-family: Arial, Helvetica, sans-serif;
     float:right;
-    margin-right:5px;
 }
 
 #Article {
