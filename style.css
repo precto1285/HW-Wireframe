@@ -1,40 +1,69 @@
 body {
     background-color: #777;
-
+    color:#ebebeb;
+    text-align:center;
+    
 }
 
 #Header {
-
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    width: 960px;
 }
 
 #Nav {
-
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    width: 960px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 footer {
-
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    width: 960px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 #Section {
-
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    width: 495px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #Aside {
-
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    width: 495px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #Article {
-
+    background-color: #777;
+    color:#ebebeb;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .clear {
 
 }
 
-h1 {
-
+#Headers {
+    background-color:#ebebeb;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-
+#Paragraph {
+    background-color:#ebebeb;
+    color:#777;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
